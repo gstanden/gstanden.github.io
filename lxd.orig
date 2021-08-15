@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { /*
+
+Copyright The Closure Library Authors.
+SPDX-License-Identifier: Apache-2.0
+*/
+(function(){function e(g){this.t={};this.tick=function(h,k,f){this.t[h]=[void 0!=f?f:(new Date).getTime(),k];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(m){}};this.getStartTickTime=function(){return this.t.start[0]};this.tick("start",null,g)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var l=0<d?new e(d):new e;window.jstiming={Timer:e,load:l};if(a){var b=a.navigationStart;0<b&&d>=b&&(window.jstiming.srt=d-b)}if(a){var c=window.jstiming.load;0<b&&d>=
+b&&(c.tick("_wtsrt",void 0,b),c.tick("wtsrt_","_wtsrt",d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/c9c36f/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/a/orabuntu-lxc.com/documentation/lxd","deleted":false,"title":"LXD","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/c9c36f/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://949954548-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"Orabuntu-LXC","experiments":{"enableSubpagesGadgetInTakeout":true,"overrideDisableDomainEditing":false,"DisableSiteEditingFeature__disable_site_editing":true,"disableDomainEditing":false},"jot2atari":{"eligibility":"INELIGIBLE"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"moreMobileStyleImprovements":null,"subscriptionDataMigrationInProgress":null,"plusBadge":false},"configProperties":{"disableSiteEditing":null},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/a/orabuntu-lxc.com/documentation/lxd\u0026service\u003djotspot","analyticsAccountId":"","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/c9c36f/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/c9c36f/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/c9c36f/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/c9c36f/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/c9c36f/system/app/css/trogedit.css","/a/orabuntu-lxc.com/documentation/_/rsrc/1628148289000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/c9c36f/system/app/css/codeeditor.css","/a/orabuntu-lxc.com/documentation/_/rsrc/1628148289000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"orabuntu-lxc.com","baseUri":"/a/orabuntu-lxc.com/documentation","name":"documentation","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"LXD","locale":"en","wuid":"wuid:gx:1eb8382f9ff943f1","revision":18,"path":"/lxd","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"lxd","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false,"isGoogleAdmin":false},"gadgets":{"baseUri":"/a/orabuntu-lxc.com/documentation/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="LXD - Orabuntu-LXC" />
+<meta itemprop="name" content="LXD - Orabuntu-LXC" />
+<meta property="og:title" content="LXD - Orabuntu-LXC" />
+<meta name="description" content="Orabuntu-LXC Documentation" />
+<meta itemprop="description" content="Orabuntu-LXC Documentation" />
+<meta id="meta-tag-description" property="og:description" content="Orabuntu-LXC Documentation" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/c9c36f/system/app/themes/solitudeolive/standard-css-solitudeolive-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/a/orabuntu-lxc.com/documentation/_/rsrc/1628148289000/system/app/css/overlay.css?cb=solitudeolive300goog-ws-leftnone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/a/orabuntu-lxc.com/documentation/_/rsrc/1628148289000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/a/orabuntu%2dlxc.com/documentation/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>LXD - Orabuntu-LXC</title>
+<meta itemprop="image" content="https://admin.googleusercontent.com/logo-scs-key2931893" />
+<meta property="og:image" content="https://admin.googleusercontent.com/logo-scs-key2931893" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><a href="https://sites.google.com/a/orabuntu-lxc.com/documentation/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="https://admin.googleusercontent.com/logo-scs-key2931893" alt="Orabuntu-LXC" class="sites-logo  sites-domain-logo" /></a><h2></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/a/orabuntu-lxc.com/documentation/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:300px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first "><div dir="ltr" style="padding-left: 19px;"><a href="/a/orabuntu-lxc.com/documentation/home" jotId="wuid:gx:5f987130712a7e4c" class="sites-navigation-link topLevel">Home</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/orabuntu-lxc.com/documentation/administration" jotId="wuid:gx:6fb8050391c3c355" class="sites-navigation-link topLevel">Administration</a></div></li><li class="topLevel parent " wuid="gx:5630b829b6bfecea"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/orabuntu-lxc.com/documentation/configuration" jotId="wuid:gx:5630b829b6bfecea" class="sites-navigation-link topLevel">Configuration</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/configuration/dns-dhcp-snapshots" jotId="wuid:gx:5607af4874380d29" class="sites-navigation-link">DNS-DHCP Snapshots</a></div></li></ul></li><li class="topLevel parent " wuid="gx:abaa3ec982bcdf4"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/orabuntu-lxc.com/documentation/github-operations" jotId="wuid:gx:abaa3ec982bcdf4" class="sites-navigation-link topLevel">GitHub Operations</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/github-operations/updating-master-branch" jotId="wuid:gx:46b01a4aa24303e2" class="sites-navigation-link">Updating Master Branch</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/github-operations/updating-to-lxd-branch" jotId="wuid:gx:4130fbc719f2c8" class="sites-navigation-link">Updating To-LXD Branch</a></div></li></ul></li><li class="topLevel parent " wuid="gx:1f65d65d626bdf7d"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/orabuntu-lxc.com/documentation/installation" jotId="wuid:gx:1f65d65d626bdf7d" class="sites-navigation-link topLevel">Installation</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/installation/logging" jotId="wuid:gx:73f2d1a32d1cfb15" class="sites-navigation-link">Logging</a></div></li></ul></li><li class="topLevel "><div class="current-bg" jotId="wuid:gx:1eb8382f9ff943f1" dir="ltr" style="padding-left: 19px;">LXD</div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/orabuntu-lxc.com/documentation/modification" jotId="wuid:gx:762de0074052c904" class="sites-navigation-link topLevel">Modification</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/orabuntu-lxc.com/documentation/network-configuration" jotId="wuid:gx:68f4da5881bde23f" class="sites-navigation-link topLevel">Network Configuration</a></div></li><li class="topLevel parent " wuid="gx:b1a5887c4e2fdcf"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/orabuntu-lxc.com/documentation/products" jotId="wuid:gx:b1a5887c4e2fdcf" class="sites-navigation-link topLevel">Products</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/products/oracle-gi-18c" jotId="wuid:gx:47ec11b74cd5f49a" class="sites-navigation-link">Oracle GI 18c</a></div></li></ul></li><li class="topLevel parent " wuid="gx:677919ed66ba69f8"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/orabuntu-lxc.com/documentation/quick-start" jotId="wuid:gx:677919ed66ba69f8" class="sites-navigation-link topLevel">Quick Start</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/quick-start/orabuntu-lxc-v6-0-0-beta-amide" jotId="wuid:gx:23ff83593c569714" class="sites-navigation-link">Orabuntu-LXC v6.0.0-beta AMIDE</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/quick-start/orabuntu-lxc-v7-0-0-beta-amide" jotId="wuid:gx:31314032a022a1e0" class="sites-navigation-link">Orabuntu-LXC v7.0.0-beta AMIDE</a></div></li></ul></li><li class="topLevel parent " wuid="gx:37e57af40498cab6"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/orabuntu-lxc.com/documentation/software-configuration" jotId="wuid:gx:37e57af40498cab6" class="sites-navigation-link topLevel">Software Configuration</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/software-configuration/tar-archives-creation" jotId="wuid:gx:4b99b6ca3c85e918" class="sites-navigation-link">Tar Archives Creation</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/orabuntu-lxc.com/documentation/software-configuration/tar-archives-modification" jotId="wuid:gx:512717e947b8a2bb" class="sites-navigation-link">Tar Archives Modification</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/orabuntu-lxc.com/documentation/user" jotId="wuid:gx:565ed1e9578b9cf" class="sites-navigation-link topLevel">User</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/orabuntu-lxc.com/documentation/system/app/pages/sitemap/hierarchy" jotId="wuid:gx:4de1871ba2970ec2" class="sites-navigation-link topLevel">Sitemap</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">LXD</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:500px;"><div class="sites-embed-content sites-embed-type-toc"><div class="goog-toc sites-embed-toc-maxdepth-6"><p>Contents</p><ol class="goog-toc"><li class="goog-toc"><a href="#TOC-Summary"><strong>1 </strong>Summary</a></li><li class="goog-toc"><a href="#TOC-OpenvSwitch-Design-in-Orabuntu-LXC-version-6"><strong>2 </strong>OpenvSwitch Design in Orabuntu-LXC version 6</a></li><li class="goog-toc"><a href="#TOC-OpenvSwitch-Design-in-Orabuntu-LXC-version-7"><strong>3 </strong>OpenvSwitch Design in Orabuntu-LXC version 7</a></li><li class="goog-toc"><a href="#TOC-LXD-Clusters-on-Orabuntu-LXC-version-7"><strong>4 </strong>LXD Clusters on Orabuntu-LXC version 7</a></li></ol></div></div></div></div></div><h3><a name="TOC-Summary"></a>Summary<br /></h3></div><div></div><div>Orabuntu-LXC v7.0.0-beta AMIDE (<b>A</b>mazon <b>M</b>ult-<b>I</b>-host LX<b>D</b> <b>D</b>ocker <b>E</b>nterprise) is the first edition of Orabuntu-LXC which offers support for LXD and for LXD Clusters.</div><div></div><div><h3><a name="TOC-OpenvSwitch-Design-in-Orabuntu-LXC-version-6"></a>OpenvSwitch Design in Orabuntu-LXC version 6<br /></h3></div><div></div><div>Orabuntu-LXC in version 6 introduced the multi-host automated OpenvSwitch GRE tunnel building feature which allowed users to span a network of LXC containers across multiple physical hosts and/or virtual machines (or mixtures of physical hosts and virtual machines) using GRE tunnels over a Multi-Host OpenvSwitch network.  In version 6, Orabuntu-LXC still used the "server-side" scripts to implement the VLAN scheme for the LXC containers. More information on how networking and VLAN was implemented in Orabuntu-LXC version 6 can be found <a href="https://sites.google.com/site/nandydandyoracle/openvswitch-ovs/openvswitch-patch-ports" target="_blank" rel="nofollow">here</a>.</div><div><br /></div><div>In particular, Orabuntu-LXC in version 6 used scripts in the LXC config file to accomplish the attachment to OpenvSwitch for example as shown below.</div><div><br /></div><div class="sites-codeblock sites-codesnippet-block"><code># Networking</code><br /><code>lxc.network.type = veth</code><br /><code>lxc.network.flags = up</code><br /><code>lxc.network.script.up = /etc/network/if-up.d/openvswitch/xxxxxxxx-pub-ifup-sw10</code><br /><code>lxc.network.script.down = /etc/network/if-down.d/openvswitch/xxxxxxxx-pub-ifdown-sw10</code><br /><code>lxc.network.veth.pair = xxxxxxxx</code><br /><code>lxc.network.name = eth0</code><br /><code>lxc.network.mtu = 1500</code><br /><div><code>lxc.network.hwaddr = 00:16:3e:c7:48:d8</code></div></div><div><br /></div><div>Below is an example of the script that was used in Orabuntu-LXC version 6.</div><div><br /></div><div class="sites-codeblock sites-codesnippet-block"><div><div><font size="3"><code>#!/bin/bash</code><br /><code>ovsBr='sw10'</code><br /><code>ovs-vsctl add-port ${ovsBr} $5</code><br /><code>ovs-vsctl set port $5 </code><b><code>tag=12</code></b></font></div></div></div><div><font size="3"><br /></font></div><div><font size="2">And here is what the /etc/network/if-up.d/openvswitch/xxxxxxxx-pub-ifup.sw11 file looks like as shown below.</font></div><div><font size="3"><br /></font></div><div class="sites-codeblock sites-codesnippet-block"><div><font size="3"><code>#!/bin/bash</code><br /><code>ovsBr='sw11'</code><br /><code>ovs-vsctl add-port ${ovsBr} $5</code><br /><code>ovs-vsctl set port $5 <b>tag=13</b></code></font></div></div><div></div><div><h3><a name="TOC-OpenvSwitch-Design-in-Orabuntu-LXC-version-7"></a>OpenvSwitch Design in Orabuntu-LXC version 7</h3><div>The changes to OpenvSwitch design in Orabuntu-LXC version 7 were inspired by a post <a href="https://nileshgr.com/2019/07/05/lxd-openvswitch-and-vlans" target="_blank" rel="nofollow">here</a>.  This method allows Orabuntu-LXC version 7 to preserve the VLAN scheme of Orabuntu-LXC version 6, but to also eliminated the server-side scripts mentioned above.  Note that this also requires a version of LXC itself that supports OpenvSwitch in the config file of the container (i.e. the "lxc.network.link" parameter).  Therefore, additional work was done on the code that will be released as Orabuntu-LXC version 7 to deploy minimum version LXC 3.0.4 on all linux distros that Orabuntu-LXC supports (currently Oracle Linux, Ubuntu, RedHat, CentOS, and Fedora).</div><div><br /></div><div>In Orabuntu-LXC version 7 the VLAN scheme is preserved, not by the server-side scripts, but by new additional ovs bridges attached to the "core" ovs bridges which carry the vlan information, for example as shown below <b>in bold </b>from the crt_ovs_sw1.sh script.</div><div><br /></div><div><div class="sites-codeblock sites-codesnippet-block"><code>ovs-vsctl --may-exist add-br sw1</code><br /><b><code>ovs-vsctl --may-exist add-br sw1a sw1 10</code></b></div><br /></div><div>The sw1a bridge provides the vlan information, while the sw1 switch handles the iptables rule-based connection to the physical internet-connected interface and the GRE tunnel connections to other interfaces on physical hosts or virtual machines to create the GRE tunnel network.  The VLAN information is bestowed on LXC containers that connect to the sw1a vlan-tagged switch.  Bridge sw1 has "trunks=10, ..." setting which allows the desired traffic to traverse the sw1 switch.</div><div><br /></div><div>Currently Orabuntu-LXC version 7 has not yet been released (as of this writing on February 25, 2021) because work is still being done to determine how to best put the LXD containers on these new vlan-tagged switches such as "sw1a."   So for now, it is not yet coded into Orabuntu-LXC how to put LXD containers on the OpenvSwitch network. Nevertheless, the networking changes were made to utilize this new layer of "vlan-tagged-switches" such as sw1a and sx1a so that the "lxc.network.scripts" parameter and "lxc.net.0.network.scripts" parameters in the config files for the LXC containers could finally be retired and removed from the code while still preserving the existing VLAN scheme of Orabuntu-LXC.  This design change was a significant improvement to Orabuntu-LXC version 6, and, it is hoped, lays the foundation for expansion of Orabuntu-LXC to completely support LXD containers and LXD clusters.  It is the use of the new vlan-tagged-switches for use with LXD that is still under development.  In the meantime, LXD containers can be created on the lxdbr0 as usual, with the Orabuntu-LXC OpenvSwitch network providing the LXD Cluster endpoints, and can be managed as usual leveraging the OpenvSwitch network.<br /></div><div></div><div><h3><a name="TOC-LXD-Clusters-on-Orabuntu-LXC-version-7"></a>LXD Clusters on Orabuntu-LXC version 7</h3><div>However, what is already available for use in Orabuntu-LXC version 7 is the ability to create LXD <b><i>clusters</i></b> automatically. At this point, this feature is <b><i>only</i></b> available for <b>Ubuntu Linux 20.04</b> and that code is already available for use in Orabuntu-LXC version 6.13.24-beta AMIDE and also in Master.  However, it is "switched off" and so to use it one needs to edit the <br /></div><div><br /></div><div>anylinux-services.HUB.HOST.sh file; and</div><div>anylinux-services.GRE.HOST.sh file  <br /></div></div><div><br /></div><div>and also needs to create the required zpools for LXD storage (and the code checks and exits if you have forgotten to pre-create the zfs storage pools).  The program expects you to create a pool on the LXD cluster master, and a pool on the LXD Cluster second server, shown below respectively, as:</div><div><br /></div><div>olxc-001</div><div>olxc-002</div><div><br /></div><div>Currently, there is no flexibility in the code to name your zpools to custom user-selectable names, but this is a relatively easy feature to introduce, so it will be possible to use custom zfs storage pool names when Orabuntu-LXC version 7 is released.  For now, in the 6.13.24-beta AMIDE "preview" one needs to create the zpools with those names.</div><div><br /></div><div>The cluster is created fully automatically, simply by setting the required install parameters in the anylinux-services.[HUB|GRE].HOST.sh files.  Edit the files and set this section to "Y" as shown below <b>in bold</b>.</div><div><br /></div></div><div></div><div class="sites-codeblock sites-codesnippet-block"><div><br /></div><div><code> </code><br /><code>################ LXD Cluster Settings ######################</code><br /><br /><code>### Ubuntu Linux LXD Storage (optional)</code><br /><br /><code>StoragePoolName=olxc-002        # Relevant only if LXDCluster=Y</code><br /><code>StorageDriver=zfs               # Relevant only if LXDCluster=Y</code><br /><br /><code>### Oracle Linux LXD Storage (optional)</code><br /><br /><code>BtrfsLun="\/dev\/sdXn"          # Relevant only if LXDCluster=Y (e.g. Set to /dev/sdb1)</code><br /><code>LXD=N                           # This value is currently unused.  Leave set to N.</code><br /><br /><code>LXDCluster=N                    # Default value</code><br /><code>PreSeed=N                       # Default value</code><br /><br /><code>if   [ $LinuxFlavor = 'Ubuntu' ] &amp;&amp; [ $UbuntuMajorVersion -ge 20 ]</code><br /><code>then</code><br /><code>        echo ''</code><br /><code>        echo "=============================================="</code><br /><code>        echo "Display Optional LXD Cluster Values...        "</code><br /><code>        echo "=============================================="</code><br /><code>        echo ''</code><br /><br /><code>        <b>LXDCluster=N    # Set to Y for automated LXD Cluster creation (optional).</b></code><b><br /><code>        PreSeed=N       # Set to Y for automated LXD Cluster creation (optional).</code></b><br /><br /><code>        echo 'LXDCluster = '$LXDCluster</code><br /><code>        echo 'PreSeed    = '$PreSeed</code><br /><br /><code>        echo ''</code><br /><code>        echo "=============================================="</code><br /><code>        echo "Done: Display LXD Cluster Values.             "</code><br /><code>        echo "=============================================="</code><br /><code>        echo ''</code><br /><br /><code>        sleep 5</code><br /><br /><code>        clear</code><br /><br /><code>        if [ $LXDCluster = 'Y' ]</code><br /><code>        then</code><br /><code>                echo ''</code><br /><code>                echo "=============================================="</code><br /><code>                echo "Check ZFS Storage Pool Exists...              "</code><br /><code>                echo "=============================================="</code><br /><code>                echo ''</code><br /><br /><code>                function CheckZpoolExist {</code><br /><code>                        sudo zpool list $StoragePoolName | grep ONLINE | wc -l</code><br /><code>                }</code><br /><code>                ZpoolExist=$(CheckZpoolExist)</code><br /><br /><code>                if [ $ZpoolExist -eq 1 ]</code><br /><code>                then</code><br /><code>                        echo "ZFS $StoragePoolName exists."</code><br /><code>                else</code><br /><code>                        echo "ZFS $StoragePoolName does not exist."</code><br /><code>                        echo "ZFS $StoragePoolName must be created before running Orabuntu-LXC in LXD Cluster Mode."</code><br /><code>                        echo "Orabuntu-LXC Exiting."</code><br /><code>                        exit</code><br /><code>                fi</code><br /><br /><code>                echo ''</code><br /><code>                echo "=============================================="</code><br /><code>                echo "Done: Check ZFS Storage Pool Exists.          "</code><br /><code>                echo "=============================================="</code><br /><code>                echo ''</code><br /><br /><code>                sleep 5</code><br /><br /><code>                clear</code><br /><code>        fi</code><br /><code>fi</code><br /><br /><code>if [ $LinuxFlavor = 'Oracle' ] &amp;&amp; [ $Release -eq 8 ]</code><br /><code>then</code><br /><code>        <b>LXDCluster=N</b></code><b><br /><code>        PreSeed=N</code></b><br /><br /><code>        if [ $LXDCluster = 'Y' ]</code><br /><code>        then</code><br /><code>                echo ''</code><br /><code>                echo "=============================================="</code><br /><code>                echo "                WARNING !!                    "</code><br /><code>                echo "=============================================="</code><br /><code>                echo ''</code><br /><code>                echo "=============================================="</code><br /><code>                echo "LXD Cluster will RE-FORMAT $BtrfsLun as a     "</code><br /><code>                echo "BTRFS file system for LXD.                    "</code><br /><code>                echo "                                              "</code><br /><code>                echo "If you do NOT want to use /dev/sdXn for this  "</code><br /><code>                echo "purpose, hit CTRL+c now to exit.              "</code><br /><code>                echo "=============================================="</code><br /><code>                echo ''</code><br /><br /><code>                sleep 20</code><br /><code>        fi</code><br /><code>fi</code><br /><br /><code>################## LXD Cluster Settings END #########################</code></div><div><code> </code></div></div><br /><div>As shown above, work is also underway to provide automated LXD cluster creation for Oracle Linux 8 hosts as well, so that in Orabuntu-LXC version 7 there will be the ability to create LXD cluster automatically on at least one Debian-family Linux (Ubuntu 20.04) and at least one RedHat-family Linux (Oracle Linux 8).  Work is also planned to offer LXD clusters on Fedora 33 as well.</div><div><br /></div><div>At this point in development, if using Orabuntu-LXC 6.13.24-beta AMIDE to create and use LXD, create the required olxc-001/olxc-002 zfs storage pools on the HUB host and GRE host, respectively, and then set the switches shown above to "Y" and the cluster will be created automatically by Orabuntu-LXC which puts the LXD cluster on the OpenvSwitch network utilizing the GRE tunnels that Orabuntu-LXC creates as part of the multi-host option.  When the install is complete on Ubuntu Linux 20.04, create LXD containers on the lxdbr0 interface.  The LXD containers created in that way will be available in the usual expected way across all Orabuntu-LXC hosts in the multi-host OpenvSwitch network.<br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments"><div class="sites-comment-docos-wrapper"><div class="sites-comment-docos"><div class="sites-comment-docos-background"></div><div class="sites-comment-docos-header"><div class="sites-comment-docos-header-title">Comments</div></div><div id="sites-comment-docos-pane" class="sites-comment-docos-pane"></div></div></div></div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/a/orabuntu-lxc.com/documentation/lxd&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/a/orabuntu-lxc.com/documentation/system/app/pages/recentChanges">Recent Site Activity</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/a/orabuntu-lxc.com/documentation/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/c9c36f/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/a/orabuntu-lxc.com/documentation/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+              new sites.CommentPane('//docs.google.com/comments/d/AAHRpnXsYkggvpp-F8LCXLIRVA-HolVeJaDfPZB-n5G7e8QX0_cQ2DiltltVv1K7x1ZwLpOKtFNokwzZvwoma99fInpzA81PQpgLukMeN0wPgPN7JtvkenGcy1v8yosQqJDczSg5ap5HXFinxPquUWZIzdqSxi1v-oQ/api/js?anon=true',
+                  false, false);
+            </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/a/orabuntu-lxc.com/documentation/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
